@@ -9,3 +9,4 @@
 <br><br>Managed or external tables can be identified using the DESCRIBE FORMATTED table_name command, which will display either MANAGED_TABLE or EXTERNAL_TABLE depending on table type.
 
 - [Stack Overflow: Difference between Hive internal tables and external tables?](https://stackoverflow.com/questions/17038414/difference-between-hive-internal-tables-and-external-tables)
+- [What is the difference between CREATE TABLE AND CREATE EXTERNAL TABLE ?](http://data-flair.training/forums/topic/what-is-the-difference-between-create-table-and-create-external-table)
