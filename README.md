@@ -2,4 +2,4 @@
 Today I Learned
 
 # TODO
-- [ ] why use external table?
+- [ ] dotfiles & personal dev setting
